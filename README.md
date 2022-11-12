@@ -2,21 +2,22 @@
 
 ## Technologies & Topics
 
-- HTML
-- CSS
-- Sass
-- Bootstrap
-- Tailwind
-- Accessibility
-- UX Atricles
-- SEO
-- JavaScript
-- Vue
-- Client-Side & SSR
-- Module Bundler
-- Performance
-- Unit Testing
-- e2e Testing
+- [HTML](#html)
+- [CSS](#css)
+- [Sass](#sass)
+- [Bootstrap](#bootstrap)
+- [Tailwind](#tailwind)
+- [Accessibility](#accessibility)
+- [UX Atricles](#ux-atricles)
+- [SEO](#seo)
+- [Git](#git)
+- [JavaScript](#javaScript)
+- [Vue](#vue)
+- [Client-Side & SSR](#client-side-&-ssr)
+- [Module Bundler](#module-bundler)
+- [Performance](#performance)
+- [Unit Testing](#unit-testing)
+- [e2e Testing](#e2e-testing)
 
 ## HTML
 
@@ -97,144 +98,168 @@ Web accessibility, or eAccessibility, is the inclusive practice of ensuring ther
 
 ## UX Atricles
 
-Brief
+As a Front-End engineer, you should have basic UX (User Experience) experience. These articles will help you have a good grasp of the UX.
 
 ### Beginner
 
-- track name
-
-### Intermediate
-
-- track name
-
-### Advanced
-
-- track name
+- [Fundamentals of UX](https://ibit.ly/NqQs)
+- [The Meaning of Color](https://ibit.ly/Z_sB)
 
 ## SEO
 
-Brief
+Search Engine Optimization known as **SEO** is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.
 
 ### Beginner
 
-- track name
+- [SEO for Developers in 100 Seconds (video)](https://www.youtube.com/watch?v=-B58GgsehKQ)
+- [Search Engine Optimization (SEO) Starter Guide](https://t.ly/ifoc)
 
 ### Intermediate
 
-- track name
+- [Overview of crawling and indexing topics](https://t.ly/7HFv)
+- [Learn about sitemaps](https://t.ly/8q6n)
+- [Ask Google to recrawl your URLs](https://t.ly/mGHh)
+- [Introduction to robots.txt](https://t.ly/zeNB)
+- [Get started with Search Console](https://bit.ly/3fEWRqt)
 
 ### Advanced
 
-- track name
+- [Overview of mobile topics](https://t.ly/Fd0P)
+- [AMP on Google Search guidelines](https://t.ly/LLH-)
+- [Understand the JavaScript SEO basics](https://t.ly/sCor)
+- [Use valid HTML to specify page metadata](https://t.ly/cN_l)
+- [Control what you share with Google](https://bit.ly/3hrbduI)
+- [Redirects and Google Search](https://bit.ly/3DLPipF)
+- [Overview of Search appearance topics](https://bit.ly/3fRU1y6)
+
+## Git
+
+**Git** is free and open source software for distributed version control: tracking changes in any set of files.
+
+### Beginner
+
+- [Git Tutorial for Beginners: Learn Git in 1 Hour (video)](https://bit.ly/3ElMAch)
+- [Git for Professionals Tutorial](https://bit.ly/3FW2haZ)
+- [Advanced Git Tutorial](https://bit.ly/3FSKr8P)
 
 ## JavaScript
 
-Brief
+You know what Javascript is! 💖
 
 ### Beginner
 
-- track name
+Choose one:
+
+- [Learn JavaScript in Arabic 2021 - Elzero Web School](https://bit.ly/3EqZCFm)
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://bit.ly/3OeSdfH)
 
 ### Intermediate
 
-- track name
+- [JavaScript — Dynamic client-side scripting by MDN](https://mzl.la/3hDr2yR)
 
 ### Advanced
 
-- track name
+Read these books in the same order:
+
+- You Don't Know JS Yet: Get Started (2nd Edition if can!)
+- You Don't Know JS Yet: Scope & Closures (2nd Edition if can!)
+- You Don't Know JS Yet: Objects & Classes
+- You Don't Know JS Yet: Types & Grammar
+- You Don't Know JS Yet: Sync & Async
+- You Don't Know JS: ES6 & Beyond
 
 ## Vue
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
 
 ## Client-Side & SSR
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
 
 ## Module Bundler
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
 
 ## Performance
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
 
 ## Unit Testing
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
 
 ## e2e Testing
 
-Brief
+TBD
 
 ### Beginner
 
-- track name
+- TBD
 
 ### Intermediate
 
-- track name
+- TBD
 
 ### Advanced
 
-- track name
+- TBD
