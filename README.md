@@ -37,7 +37,7 @@ The HyperText Markup Language or **HTML** is the standard markup language for do
 
 ### Advanced
 
-- [Head First HTML and CSS - Book by Elisabeth Robson and Eric Freeman](https://t.ly/G8EJ) (The HTML part)
+- [Head First HTML and CSS - Book by Elisabeth Robson and Eric Freeman](https://www.goodreads.com/en/book/show/13355960-head-first-html-and-css) (The HTML part)
 
 ## CSS
 
@@ -46,18 +46,18 @@ Cascading Style Sheets or **CSS** is a style sheet language used for describing 
 ### Beginner
 
 - [Learn CSS In Arabic 2021 - Elzero Web School](https://t.ly/QL7D)
-- [Learn CSS - W3School](https://t.ly/bZHj)
-- [Quiz - W3School](https://t.ly/tk-bG) (Minimum score 90%)
-- [Quiz - wscubetech](https://t.ly/eP3Kw) (Minimum score 30/30)
+- [Learn CSS - W3School](https://www.w3schools.com/css/)
+- [Quiz - W3School](https://www.w3schools.com/css/css_quiz.asp) (Minimum score 90%)
+- [Quiz - wscubetech](https://www.wscubetech.com/quiz-test-css) (Minimum score 30/30)
 
 ### Intermediate
 
-- [Learn to style HTML using CSS - MDN](https://t.ly/Qq-w) (All the 17 tests)
-- [Quiz - CodesCracker](https://t.ly/6_57) (All the 17 tests)
+- [Learn to style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Quiz - CodesCracker](https://codescracker.com/exam/showtest.php?subid=5) (All the 17 tests)
 
 ### Advanced
 
-- [Head First HTML and CSS - Book by Elisabeth Robson and Eric Freeman](https://t.ly/G8EJ) (The CSS part)
+- [Head First HTML and CSS - Book by Elisabeth Robson and Eric Freeman](https://www.goodreads.com/en/book/show/13355960-head-first-html-and-css) (The CSS part)
 
 ## Sass
 
@@ -65,8 +65,8 @@ Sass is a preprocessor scripting language that is interpreted or compiled into C
 
 ### Beginner
 
-- [Learn Sass In Arabic 2021 - Elzero Web School](https://t.ly/Fr1c)
-- [Learn Sass - W3School](https://t.ly/yx8X)
+- [Learn Sass In Arabic 2021 - Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+- [Learn Sass - W3School](https://www.w3schools.com/sass/)
 
 ## Bootstrap
 
@@ -74,7 +74,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 ### Beginner
 
-- [Learn Bootstrap V4 In Arabic - Abdelrahman Gamal](https://t.ly/YEDz)
+- [Learn Bootstrap V4 In Arabic - Abdelrahman Gamal](https://www.youtube.com/playlist?list=PLknwEmKsW8OscL9GvjxwL7RYbcwwdIitk)
 
 ## Tailwind
 
@@ -82,7 +82,7 @@ Tailwind CSS is an open source CSS framework. The main feature of this library i
 
 ### Beginner
 
-- [Tailwind CSS Full Course for Beginners - Dave Gray](https://t.ly/bCVY)
+- [Tailwind CSS Full Course for Beginners - Dave Gray](https://www.youtube.com/watch?v=lCxcTsOHrjo)
 
 ## Accessibility
 
@@ -90,11 +90,11 @@ Web accessibility, or eAccessibility, is the inclusive practice of ensuring ther
 
 ### Beginner
 
-- [Learn HTML Accessibility (video #35 & #36) - Elzero Web School](https://t.ly/UstW)
+- [Learn HTML Accessibility (video #35 & #36) - Elzero Web School](https://www.youtube.com/watch?v=lSqXHePabFo&vl=en)
 
 ### Advanced
 
-- [Learn Accessibility - MDN](https://t.ly/__D-)
+- [Learn Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 ## UX Atricles
 
@@ -102,8 +102,8 @@ As a Front-End engineer, you should have basic UX (User Experience) experience. 
 
 ### Beginner
 
-- [Fundamentals of UX](https://ibit.ly/NqQs)
-- [The Meaning of Color](https://ibit.ly/Z_sB)
+- [Fundamentals of UX](https://dev.to/jellene4eva/fundamentals-of-ux-5hn0)
+- [The Meaning of Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
 
 ## SEO
 
