@@ -11,3 +11,5 @@
   - [Go for JavaScript Developers](https://frontendmasters.com/courses/go-for-js-devs/)
   - The Go Programming Language [Book]
   - Head First Go [Book]
+- General CS
+  - [Complete Intro to Linux and the Command-Line](https://frontendmasters.com/courses/linux-command-line/)
